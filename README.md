@@ -1,6 +1,6 @@
 # 🎵 Music Player
 
-A modern, cross-platform music player built with .NET and Avalonia.
+A modern, cross-platform music player built with .NET and Avalonia. Downloading music from YT currently does not work.
 
 **Download:** [Latest Release](https://github.com/as-notchu/Music-Player/releases)
 
